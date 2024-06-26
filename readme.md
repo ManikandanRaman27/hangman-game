@@ -1,0 +1,3 @@
+Create a console application that simulates a game of hangman.The program should choose a random word from a list of words and prompt the user to guess letters one at a time. If the user correctly
+guesses a letter, the program should reveal the location of that letter in the word. If the user makes too many incorrect guesses,the game should end and the correct word should be revealed. Use a
+string container to store the selected word and the user's guesses.
